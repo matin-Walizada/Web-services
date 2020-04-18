@@ -1,6 +1,6 @@
-/Users/khaleqhamdam/eclipse-training/restfullapi/src/main/java/com/training/restfullapi/EmployeeDAO.java
-/Users/khaleqhamdam/eclipse-training/restfullapi/src/main/java/com/training/restfullapi/Employee.java
-/Users/khaleqhamdam/eclipse-training/restfullapi/src/main/java/com/training/restfullapi/DBConfig.java
-/Users/khaleqhamdam/eclipse-training/restfullapi/src/main/java/com/training/restfullapi/ServiceDAO.java
-/Users/khaleqhamdam/eclipse-training/restfullapi/src/main/java/com/training/restfullapi/EmployeeResource.java
-/Users/khaleqhamdam/eclipse-training/restfullapi/src/main/java/com/training/restfullapi/EmployeeDaoImpl.java
+/Users/khaleqhamdam/eclipse-training/Web-services/restfullapi/src/main/java/com/training/restfullapi/ServiceDAO.java
+/Users/khaleqhamdam/eclipse-training/Web-services/restfullapi/src/main/java/com/training/restfullapi/EmployeeDAO.java
+/Users/khaleqhamdam/eclipse-training/Web-services/restfullapi/src/main/java/com/training/restfullapi/EmployeeDaoImpl.java
+/Users/khaleqhamdam/eclipse-training/Web-services/restfullapi/src/main/java/com/training/restfullapi/DBConfig.java
+/Users/khaleqhamdam/eclipse-training/Web-services/restfullapi/src/main/java/com/training/restfullapi/EmployeeResource.java
+/Users/khaleqhamdam/eclipse-training/Web-services/restfullapi/src/main/java/com/training/restfullapi/Employee.java

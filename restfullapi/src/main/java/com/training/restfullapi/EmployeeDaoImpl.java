@@ -2,7 +2,7 @@ package com.training.restfullapi;
 
 import java.util.List;
 
-public class EmployeeDaoImpl implements ServiceDAO {
+public class EmployeeDaoImpl implements ServiceDAO<Employee> {
 	
 	EmployeeDAO employeeDao = new EmployeeDAO();
 	@Override
@@ -12,8 +12,13 @@ public class EmployeeDaoImpl implements ServiceDAO {
 
 	@Override
 	public  List<Employee> getEmployees() {
+		return employeeDao.getEmployees();
+	}
 
-		return null;
+	@Override
+	public void creatEmployee(Employee emp) {
+		// TODO Auto-generated method stub
+		employeeDao.creatEmployee(emp);
 	}
 
 }
